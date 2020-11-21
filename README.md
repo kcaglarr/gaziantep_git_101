@@ -1,7 +1,7 @@
 <# gaziantep_git_101
 <<<<<<< HEAD
 <<<<<<< HEAD
-halil-23-gaziantep-makinemuh.<br>
+<br>halil-23-gaziantep-makinemuh.<br>
 =======
 cem-23-bursa-işletme-seyhedebaliuniversitesi
 kadir-25-bursa-bilgisayar muhendisligi
