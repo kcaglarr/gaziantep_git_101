@@ -1,8 +1,6 @@
 # gaziantep_git_101
-cem-23-bursa-işletme-seyhedebaliuniversitesi
-kadir-25-bursa-bilgisayar muhendisligi
-<<<<<<< HEAD
-=======
-ahmetcan-27-kayseri-bilgisayarmühendisliği
->>>>>>> 4ede4dcf4012998ff9261f38c0066090a34c5999
-mehmet-23-mersin-bilgisayar müh
+cem-23-bursa-işletme-seyhedebaliuniversitesi <br>
+kadir-25-bursa-bilgisayar muhendisligi <br>
+ahmetcan-27-kayseri-bilgisayarmühendisliği <br>
+mehmet-23-mersin-bilgisayar müh <br>
+musa-23-kayseri-matematik-ve-bilgisayar bilimleri <br>
