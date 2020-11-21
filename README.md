@@ -2,8 +2,12 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ayşe-21-bilgisayar mühendisi
 halil-23-gaziantep-makinemuh.<br>
+=======
+<br>halil-23-gaziantep-makinemuh.<br>
+>>>>>>> 3e5a9ba85d439a4a7037ecd93b7367a634318e70
 =======
 cem-23-bursa-işletme-seyhedebaliuniversitesi
 kadir-25-bursa-bilgisayar muhendisligi
