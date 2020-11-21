@@ -1,5 +1,5 @@
 # gaziantep_git_101
-cem-23-bursa-işletme
+cem-23-bursa-işletme-seyhedebaliuniversitesi
 kadir-25-bursa-bilgisayar muhendisligi
 <<<<<<< HEAD
 mehmet-23-mersin-bilgisayar müh
