@@ -1,6 +1,8 @@
-<# gaziantep_git_101
+# gaziantep_git_101
+
 <<<<<<< HEAD
 <<<<<<< HEAD
+ayşe-21-bilgisayar mühendisi
 halil-23-gaziantep-makinemuh.<br>
 =======
 cem-23-bursa-işletme-seyhedebaliuniversitesi
